@@ -1,2 +1,5 @@
 # GroupA_LabReview
-Hello my name is Ahmed
+Working with issues with Git and GitHub
+
+##This is what you need to make it work
+this way
